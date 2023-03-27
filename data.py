@@ -8,3 +8,6 @@ c = a + b
 print(c)
 print("wwe")
 print("tinepass")
+print("akash kathole")
+d = input("hello world")
+print(d)
